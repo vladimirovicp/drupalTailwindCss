@@ -17,5 +17,6 @@ Password: admin <br>
 ## Модули
 > * admin_toolbar (composer require 'drupal/admin_toolbar:^3.1')
 
+## Отключение кэша и включение шиблонов twig
 
 
