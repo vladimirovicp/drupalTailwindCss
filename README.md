@@ -19,4 +19,9 @@ Password: admin <br>
 
 ## Отключение кэша и включение шиблонов twig
 
+## tailwindcss
+
+> * Офф. сайт tailwindcss (https://tailwindcss.com)
+> * Install (https://tailwindcss.com/docs/installation)
+
 
