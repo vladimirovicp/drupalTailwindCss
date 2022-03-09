@@ -15,6 +15,9 @@ drush/Commands/contrib/
 /tmp/
 .idea
 
+
+public_html/themes/custom/dt/node_modules
+
 # Ignore configuration files that may contain sensitive information.
 # public_html/sites/*/settings*.php
 # public_html/sites/*/services*.yml
