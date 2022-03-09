@@ -1,0 +1,13 @@
+name: Drupal Tailwindcss
+description: Custom theme dt
+type: theme
+base theme: false
+core_version_requirement: ^9
+package: Utilvideo
+libraries:
+  - dt/base
+
+region:
+  header: Header
+  content: Content
+  footer: Footer
