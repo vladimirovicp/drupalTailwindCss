@@ -23,5 +23,11 @@ Password: admin <br>
 
 > * Офф. сайт tailwindcss (https://tailwindcss.com)
 > * Install (https://tailwindcss.com/docs/installation)
+>
+> * npm run build-css --watch
+> * npx tailwindcss-cli@latest build -i ./pcss/tailwind.pcss -o ./css/dt.css
+> * npx tailwindcss-cli@latest build -i ./pcss/tailwind.pcss -o ./css/dt.css --watch
+
+
 
 
